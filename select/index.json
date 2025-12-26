@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Billie Jean",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2025-12-26T16:43:00.150701Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Billie_Jean_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Billie_Jean_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Billie_Jean_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Billie Jean (Home Demo from 1981)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Billie_Jean_(Home_Demo_from_1981)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 Kanye West Mix - Thriller 25th Anniversary Remix Featuring Kanye West",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Billie_Jean_2008_Kanye_West_Mix_-_Thriller_25th_Anniversary_Remix_Featuring_Kany_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 Kanye West Mix (Thriller 25th Anniversary Remix)",
+      "artist": "Michael Jackson Kanye West",
+      "has_synced": true,
+      "path": "select/06_Billie_Jean_2008_Kanye_West_Mix_(Thriller_25th_Anniversary_Remix)_Michael_Jackson_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Billie Jean",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/07_Billie_Jean_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Billie Jean (Long Version)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/08_Billie_Jean_(Long_Version)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Billie Jean",
+      "artist": "Dawn Richard",
+      "has_synced": true,
+      "path": "select/09_Billie_Jean_Dawn_Richard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_Billie_Jean_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Billie Jean (1981 Home demo)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Billie_Jean_(1981_Home_demo)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Billie Jean (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_Billie_Jean_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 (Thriller 25th Anniversary Remix) [feat. Kanye West]",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Billie_Jean_2008_(Thriller_25th_Anniversary_Remix)_[feat._Kanye_West]_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 (Thriller 25th Anniversary remix)",
+      "artist": "Michael Jackson feat․ Kanye West",
+      "has_synced": true,
+      "path": "select/14_Billie_Jean_2008_(Thriller_25th_Anniversary_remix)_Michael_Jackson_feat._Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Invincible (Theme From the Legend of Billie Jean)",
+      "artist": "Pat Benatar",
+      "has_synced": false,
+      "path": "select/15_Invincible_(Theme_From_the_Legend_of_Billie_Jean)_Pat_Benatar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Billie_Jean_Michael_Jackson.txt"
+    }
+  ]
+}
